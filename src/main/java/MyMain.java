@@ -15,7 +15,7 @@ public class MyMain {
             }
             krumsicle/=10;
         }
-        //meerkat meerkat krummy buckets but no? ugh
+        //meerkat meerkat krummy buckets but no? ugh why won't it push throughhhh
         return meerkat;
     }
     
