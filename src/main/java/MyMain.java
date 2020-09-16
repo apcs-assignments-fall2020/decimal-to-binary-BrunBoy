@@ -15,6 +15,7 @@ public class MyMain {
             }
             krumsicle/=10;
         }
+        //meerkat meerkat krummy buckets
         return meerkat;
     }
     
